@@ -1,0 +1,20 @@
+Work plan:
+
+	1. Create placeholders
+	2. Position placeholders
+	3. Create inner div parts
+		a. charinfo
+			i. name
+			ii. alignment
+			iii. class (to right)
+			iv. race (to right)
+		b. leftblock
+			i. strength
+			ii. intel
+			iii. constitution
+			iv. charmisma
+		c. right block
+		d. description
+	4. Divise rating system
+	5. Create images accordingly
+	etc. etc.

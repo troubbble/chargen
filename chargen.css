@@ -1,0 +1,41 @@
+body {
+position: absolute;
+background: black;
+font-family: verdana, arial, sans-serif;
+color: white;
+font-size: 12px;
+margin: 0px;
+}
+
+div#leftblock {
+position: absolute;
+width: 400px;
+height: 400px;
+margin: 0px auto;
+background: purple;
+padding: 0px;	
+}
+
+div#rightblock {
+position: relative;
+right: -400px;
+width: 600px;
+height: 400px;
+margin: 0px auto;
+padding: 0px;
+background: gray;
+}
+
+div#charinfo {
+width: 1000px;
+height: 20px;
+background: red;
+padding: 0px
+}
+
+div#description {
+width: 1000px;
+height: 50px;
+border: 10px solid white;
+padding: 0px;
+}
