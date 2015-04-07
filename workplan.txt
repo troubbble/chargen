@@ -1,7 +1,7 @@
 Work plan:
 
-	1. Create placeholders
-	2. Position placeholders
+x	1. Create placeholders
+x	2. Position placeholders
 	3. Create inner div parts
 		a. charinfo
 			i. name
