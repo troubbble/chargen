@@ -1,1 +1,1 @@
-Starting work on a generic character generator to teach myself web development.
+Starting work on a generic character generator to learn some web development basics.
