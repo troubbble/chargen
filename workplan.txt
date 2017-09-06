@@ -18,3 +18,5 @@ x	2. Position placeholders
 	4. Divise rating system
 	5. Create images accordingly
 	etc. etc.
+
+	This is just a test addition.
